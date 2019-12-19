@@ -8,3 +8,5 @@
 
 [陕西大学](https://github.com/duck356/universityrepo/commit/b4e64cf95de6a9ef1c6fc8d3037670c2bf369971#diff-4e200396104614d131eef57b450f4ef7)
 
+[中国人民大学](https://github.com/duck356/universityrepo/commit/11f3594a22a838cf847b0a3f5174b9f40d97b83d#diff-9ecbee669cd1bacfef045426d3ec53d8)
+
